@@ -16,11 +16,11 @@ I’m Álvaro Araoz, a UX/UI designer based in Pamplona 🇪🇸. I help people 
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact&theme=github_dark_dimmed"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=donut&theme=github_dark_dimmed"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=donut&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact" />
