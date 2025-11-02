@@ -27,6 +27,6 @@ I’m Álvaro Araoz, a UX/UI designer based in Pamplona 🇪🇸. I help people 
 </picture>
 </div>
 
-- 📫 How to reach me? Easy, via [email 📧](mailto:hola@imalvaro.com) or via [WhatsApp 💬](https://api.whatsapp.com/send?phone=34628185586&text=Hi%20Alvaro%20%F0%9F%91%8B).
+📫 How to reach me? Easy, via [email 📧](mailto:hola@imalvaro.com) or via [WhatsApp 💬](https://api.whatsapp.com/send?phone=34628185586&text=Hi%20Alvaro%20%F0%9F%91%8B).
 
-- Also you can take a look on [my site 🌐](https://imalvaro.com).
+Also you can take a look on [my site 🌐](https://imalvaro.com).
