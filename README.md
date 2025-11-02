@@ -2,10 +2,10 @@ Hey 👋,
 
 I’m Álvaro Araoz, a UX/UI designer based in Pamplona 🇪🇸. I help people create user-friendly websites and applications. I spend my time creating projects, designing, and learning about web design, UX/UI principles, and how to create seamless digital experiences for all users.
  
-<div align="left">
+<div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true&theme=react"
+    srcset="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true&theme=github_dark_dimmed"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -16,7 +16,7 @@ I’m Álvaro Araoz, a UX/UI designer based in Pamplona 🇪🇸. I help people 
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact&theme=react"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact&theme=github_dark_dimmed"
     media="(prefers-color-scheme: dark)"
   />
   <source
