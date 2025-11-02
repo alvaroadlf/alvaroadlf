@@ -5,22 +5,22 @@ I’m Álvaro Araoz, a UX/UI designer based in Pamplona 🇪🇸. I help people 
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true&theme=vue-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact&theme=github_dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact&theme=vue-dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact&theme=vue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact" />
