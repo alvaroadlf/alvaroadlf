@@ -1,31 +1,4 @@
-Hey 👋,
-
-I’m Álvaro Araoz, a UX/UI designer based in Pamplona 🇪🇸. I help people create user-friendly websites and applications. I spend my time creating projects, designing, and learning about web design, UX/UI principles, and how to create seamless digital experiences for all users.
- 
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaroadlf&show_icons=true&count_private=true" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=donut&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=donut&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroadlf&langs_count=8&count_private=true&layout=compact" />
-</picture>
-</div>
+Hey 👋, I’m Álvaro Araoz, a Product Designer & Creative Technologist based in Pamplona 🇪🇸. I don't just design interfaces; I build functional digital products. By blending UX/UI principles with AI-assisted development, I bridge the gap between a visual concept and a live, working application.
 
 📫 How to reach me? Easy, via [email 📧](mailto:hola@imalvaro.com) or via [WhatsApp 💬](https://api.whatsapp.com/send?phone=34659035369&text=Hi%20Alvaro%20%F0%9F%91%8B).
 
